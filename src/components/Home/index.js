@@ -9,7 +9,7 @@ class Home extends Component {
             <div className="page_wrapper">
                 <div className="container">
                     <div className="user_container">
-                        <img src={'/images/image.png'} alt={'home-image'}>
+                        <img src={'/images/Image.png'} alt={'home-image'}>
                         </img>
                         <MyGroup
                             type="home"
